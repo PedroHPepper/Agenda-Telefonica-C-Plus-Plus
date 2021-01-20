@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557686720 source:c:\users\cliente\desktop\agenda telefonica\main.cpp
+	<iostream>
+	<string.h>
+
